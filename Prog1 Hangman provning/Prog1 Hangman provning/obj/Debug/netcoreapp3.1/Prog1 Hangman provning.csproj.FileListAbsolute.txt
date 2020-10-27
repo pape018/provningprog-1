@@ -1,0 +1,13 @@
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\bin\Debug\netcoreapp3.1\Prog1 Hangman provning.exe
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\bin\Debug\netcoreapp3.1\Prog1 Hangman provning.deps.json
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\bin\Debug\netcoreapp3.1\Prog1 Hangman provning.runtimeconfig.json
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\bin\Debug\netcoreapp3.1\Prog1 Hangman provning.runtimeconfig.dev.json
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\bin\Debug\netcoreapp3.1\Prog1 Hangman provning.dll
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\bin\Debug\netcoreapp3.1\Prog1 Hangman provning.pdb
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\obj\Debug\netcoreapp3.1\Prog1 Hangman provning.csprojAssemblyReference.cache
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\obj\Debug\netcoreapp3.1\Prog1 Hangman provning.AssemblyInfoInputs.cache
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\obj\Debug\netcoreapp3.1\Prog1 Hangman provning.AssemblyInfo.cs
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\obj\Debug\netcoreapp3.1\Prog1 Hangman provning.csproj.CoreCompileInputs.cache
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\obj\Debug\netcoreapp3.1\Prog1 Hangman provning.dll
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\obj\Debug\netcoreapp3.1\Prog1 Hangman provning.pdb
+C:\Users\pavel.petreski\Documents\GitHub\provningprog-1\Prog1 Hangman provning\Prog1 Hangman provning\obj\Debug\netcoreapp3.1\Prog1 Hangman provning.genruntimeconfig.cache
