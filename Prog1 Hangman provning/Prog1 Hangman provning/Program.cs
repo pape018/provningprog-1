@@ -42,7 +42,7 @@ namespace Prog1_Hangman_provning
                 {
                     char[] ordChars = ord.ToCharArray();
 
-                    for (int i = 0; i < ordChars.Length; i++)
+                    for (int i = 0; i < ordChars.Length; i = i +1)
                     {
                         if (gissning.ToCharArray()[0] == ordChars[i])
                         {
